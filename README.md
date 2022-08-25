@@ -1,1 +1,1 @@
-Telas para um aplicativo de venda de imóveis feito através do React Native.
+Telas para um aplicativo de venda de imóveis feito com React Native e expo.
